@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PKOL1", "PKOL1\PKOL1.csproj", "{218148ED-9116-49C5-B30F-0E072FC51BDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{218148ED-9116-49C5-B30F-0E072FC51BDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{218148ED-9116-49C5-B30F-0E072FC51BDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{218148ED-9116-49C5-B30F-0E072FC51BDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{218148ED-9116-49C5-B30F-0E072FC51BDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

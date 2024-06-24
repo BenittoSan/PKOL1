@@ -1,0 +1,6 @@
+@PKOL1_HostAddress = http://localhost:5161
+
+GET {{PKOL1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
